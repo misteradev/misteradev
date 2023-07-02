@@ -2,6 +2,10 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
+<div align="center">
+  <h2>Hi I am Mister.A</h2>
+</div>
+
 ### Hi I am Mister.A 👋
 
 Here are some ideas to get you started:
