@@ -4,9 +4,9 @@
 <div align="center">
   <h2>Hi I am Mister.A</h2>
 </div>
-<div id="badges">
+<div id="badges" align="center>
   <a href="/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/280px-Facebook_Logo_%282019%29.png" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/120px-Facebook_Logo_%282019%29.png" />
   </a>
 </div>
 
