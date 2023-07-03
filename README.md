@@ -25,6 +25,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" **alt="Github" width="50" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="50" height="40"/>  
 </div>
-<div></div>
+<div>
 
 ### :man_technologist: About Me :
+  
+</div>
