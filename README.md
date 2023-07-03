@@ -6,7 +6,7 @@
 </div>
 <div id="badges">
   <a href="/">
-    <img src="https://pngimg.com/uploads/facebook_logos/facebook_logos_PNG19764.png" alt="Facebook" width"50"/>
+    <img src="https://png.pngitem.com/pimgs/s/2-24170_facebook-like-on-blue-background-logo-facebook-like.png" width"50"/>
   </a>
 </div>
 
