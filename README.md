@@ -4,6 +4,11 @@
 <div align="center">
   <h2>Hi I am Mister.A</h2>
 </div>
+<div id="badges">
+  <a href="/">
+    <img src="[https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white](https://e7.pngegg.com/pngimages/670/159/png-clipart-facebook-logo-social-media-facebook-computer-icons-linkedin-logo-facebook-icon-media-internet.png)https://e7.pngegg.com/pngimages/670/159/png-clipart-facebook-logo-social-media-facebook-computer-icons-linkedin-logo-facebook-icon-media-internet.png" alt="Facebook" width"50"/>
+  </a>
+</div>
 
 ### Hi I am Mister.A 👋
 
