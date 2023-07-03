@@ -28,3 +28,5 @@
 
 ---
 ### :man_technologist: About Me :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=misteradev&theme=dark&background=000000)](https://git.io/streak-stats)
