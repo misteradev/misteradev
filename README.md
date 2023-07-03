@@ -26,4 +26,4 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="50" height="40"/>  
 </div>
 
-### :woman_technologist: About Me :
+### :man_technologist: About Me :
