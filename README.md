@@ -3,11 +3,11 @@
 </div>
 <div align="center">
   <h2>Hi I am Mister.A</h2>
-</div>
-<div id="badges" align="center>
-  <a href="/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/60px-Facebook_Logo_%282019%29.png" />
-  </a>
+  <div id="badges">
+    <a href="/">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/60px-Facebook_Logo_%282019%29.png" />
+    </a>
+  </div>
 </div>
 
 ### Hi I am Mister.A 👋
