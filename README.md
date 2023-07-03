@@ -6,6 +6,9 @@
     </a>
   </div>
   <div>
-    <h1>Hi!! I'm Mister.A</h1>
+    <h1>Hi I am Mister.A</h1>
   </div>
 </div>
+---
+
+### :hammer_and_wrench: Languages and Tools :
